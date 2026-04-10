@@ -2,9 +2,9 @@
 
 Fintech engineering leader building decision systems for credit, risk, and capital allocation.
 
-I design and implement ML, convex optimization, and control-based systems used to make real-world financial decisions.
+I design ML, optimization, and control-based systems used in real-world financial decisioning.
 
-Work spans underwriting, portfolio allocation, adaptive risk control, and structured inference systems.
+Work spans underwriting, portfolio allocation, adaptive risk control, and structured inference.
 
 ---
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
