@@ -2,6 +2,8 @@
 
 I build systems that transform complex, high-volume data into structured, constrained, and explainable decisions.
 
+These systems operationalize decision-making in financial and operational environments under real-world constraints.
+
 My work spans financial systems, control systems, and data-intensive architectures that operate under real-world constraints and production requirements.
 
 ---
