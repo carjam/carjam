@@ -70,11 +70,11 @@ Automation toolkit for AI-assisted development workflows.
 
 ## Design focus
 
-- Decision systems over pure prediction
-- Optimization under constraints
-- Adaptive control where static models fail
-- Structured representations of complex systems
-- Explainability in production contexts
+- Decision systems under constraints (not just prediction)
+- Optimization-driven allocation under real-world tradeoffs
+- Adaptive control for dynamic financial systems
+- Structured representations of financial and relational systems
+- Explainable decisioning in production environments
 
 ---
 
