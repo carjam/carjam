@@ -1,12 +1,13 @@
 # Hi, I’m James Carson
 
-Fintech engineering leader building decision systems for credit, risk, and capital allocation.
+I build financial decision systems that generate constrained, explainable outcomes from data.
 
-I design ML, optimization, and control-based systems used in real-world financial decisioning.
+These systems power credit underwriting, capital allocation, and risk management using ML, convex optimization, and control theory.
 
-Work spans underwriting, portfolio allocation, adaptive risk control, and structured inference.
+They operate under real-world constraints such as capital limits, policy rules, and risk exposure while maintaining interpretability in production.
 
 ---
+### Tech stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
@@ -19,65 +20,29 @@ Work spans underwriting, portfolio allocation, adaptive risk control, and struct
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ---
 
-## What I build
+### Credit Decision Systems
+Underwriting and policy-driven decision engines for credit and risk.
 
-I work across several types of decision systems:
+### Capital Allocation Systems
+Optimization-based allocation under constraints (targets, originators, fairness).
 
-### Credit Decisioning
-- credit-underwriting-engine  
-Score-based credit decision system with policy rules, thresholding, and explainability (SHAP).
+### Adaptive Risk Systems
+Feedback-driven control systems that adjust decision parameters dynamically.
 
-### Capital Allocation + Risk Control (Coupled System)
-- capital-allocation-qp-engine  
-Convex optimization engine for constrained loan allocation (targets, originators, FICO fairness).
+### Structured Inference Systems
+Rule + model hybrid systems for routing, classification, and decision logic.
 
-- adaptive-risk-control-system  
-Feedback-driven control system that dynamically adjusts allocation weights.
-
-These two form a coupled optimization + control loop.
+### Supporting Systems
+Graph-based modeling, financial analytics APIs, and decision infrastructure tooling.
 
 ---
 
-### Financial Analytics Systems
-- equity-analytics-api  
-Factor and risk analytics API (returns, volatility, Sharpe, correlation).
-
-- equity-pnl-service  
-Position-level PnL tracking service.
-
----
-
-### Structured Inference & ML Systems
-- single-neuron-semantic-layer  
-Rule-based semantic inference system for routing and attribute evaluation.
-
-- music-structure-extraction  
-Feature-based similarity system using audio embeddings and unsupervised modeling.
-
----
-
-### Structural Modeling
-- graph-structures-and-algorithms  
-Core graph primitives (directed/undirected graphs, union-find) used for connectivity modeling.
-
----
-
-### Developer Tools
-- ai-dev-productivity-tools  
-Automation toolkit for AI-assisted development workflows.
-
----
 
 ## Design focus
 
-- Decision systems under constraints (not just prediction)
-- Optimization-driven allocation under real-world tradeoffs
-- Adaptive control for dynamic financial systems
+- Decision systems operating under financial and policy constraints
+- Optimization-based allocation under competing objectives
+- Adaptive control of dynamic financial decision parameters
 - Structured representations of financial and relational systems
-- Explainable decisioning in production environments
+- Explainable decisioning for production environments
 
----
-
-## Current work
-
-Expanding the coupling between optimization and control systems into broader financial decision workflows.
