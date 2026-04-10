@@ -7,7 +7,7 @@ These systems power credit underwriting, capital allocation, and risk management
 They operate under real-world constraints such as capital limits, policy rules, and risk exposure while maintaining interpretability in production.
 
 ---
-### Tech stack
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
@@ -18,13 +18,16 @@ They operate under real-world constraints such as capital limits, policy rules, 
 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+
 ---
+
+## What I build
 
 ### Credit Decision Systems
 Underwriting and policy-driven decision engines for credit and risk.
 
 ### Capital Allocation Systems
-Optimization-based allocation under constraints (targets, originators, fairness).
+Optimization-based allocation under competing constraints (targets, originators, fairness).
 
 ### Adaptive Risk Systems
 Feedback-driven control systems that adjust decision parameters dynamically.
@@ -37,12 +40,10 @@ Graph-based modeling, financial analytics APIs, and decision infrastructure tool
 
 ---
 
-
 ## Design focus
 
-- Decision systems operating under financial and policy constraints
-- Optimization-based allocation under competing objectives
-- Adaptive control of dynamic financial decision parameters
+- Decision systems under constraints
+- Optimization under competing objectives
+- Adaptive control of dynamic financial systems
 - Structured representations of financial and relational systems
-- Explainable decisioning for production environments
-
+- Explainable decisioning in production environments
