@@ -1,10 +1,8 @@
 # Hi, I’m James Carson
 
-I build financial decision systems that generate constrained, explainable outcomes from data.
+I build systems that transform complex, high-volume data into structured, constrained, and explainable decisions.
 
-These systems power credit underwriting, capital allocation, and risk management using ML, convex optimization, and control theory.
-
-They operate under real-world constraints such as capital limits, policy rules, and risk exposure while maintaining interpretability in production.
+My work spans financial systems, control systems, and data-intensive architectures that operate under real-world constraints and production requirements.
 
 ---
 
@@ -23,27 +21,27 @@ They operate under real-world constraints such as capital limits, policy rules, 
 
 ## What I build
 
-### Credit Decision Systems
-Underwriting and policy-driven decision engines for credit and risk.
+### Financial Decision Systems
+Credit, risk, and capital allocation systems operating under real-world constraints.
 
-### Capital Allocation Systems
-Optimization-based allocation under competing constraints (targets, originators, fairness).
+### Control & Optimization Systems
+Adaptive control and convex optimization systems for dynamic allocation and decisioning.
 
-### Adaptive Risk Systems
-Feedback-driven control systems that adjust decision parameters dynamically.
+### Financial Operations & Back Office Systems
+Data-heavy systems for reconciliation, PnL, analytics, and financial workflows.
 
-### Structured Inference Systems
-Rule + model hybrid systems for routing, classification, and decision logic.
+### Data-Intensive Architectures
+High-throughput backend systems, APIs, and pipelines for structured financial data processing.
 
-### Supporting Systems
-Graph-based modeling, financial analytics APIs, and decision infrastructure tooling.
+### Structured Inference & Representation Systems
+Graph-based, rule-based, and similarity-driven systems for decision logic and data modeling.
 
 ---
 
 ## Design focus
 
-- Decision systems under constraints
-- Optimization under competing objectives
-- Adaptive control of dynamic financial systems
-- Structured representations of financial and relational systems
+- Turning complex financial and operational data into structured decisions
+- Control systems for dynamic environments
+- Optimization under constraints and competing objectives
+- Scalable data-intensive system design
 - Explainable decisioning in production environments
