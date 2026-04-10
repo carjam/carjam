@@ -1,8 +1,10 @@
 # Hi, I’m James Carson
 
-Fintech engineering leader building decision systems across credit, capital allocation, risk control, and structured inference.
+Fintech engineering leader building decision systems for credit, risk, and capital allocation.
 
-I design systems that transform data into decisions using a mix of ML, optimization, and rule-based logic.
+I design and implement ML, convex optimization, and control-based systems used to make real-world financial decisions.
+
+Work spans underwriting, portfolio allocation, adaptive risk control, and structured inference systems.
 
 ---
 
