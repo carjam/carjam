@@ -1,8 +1,8 @@
 # James Carson
 
-Fintech engineering leader building capital allocation, risk, and operational decision systems using machine learning, convex optimization, and control theory.
+Fintech engineering leader building capital allocation, risk, and operational systems using optimization, adaptive control, and data-driven modeling.
 
-My work focuses on transforming large-scale financial and operational data into explainable, production-grade decisioning systems.
+My work focuses on transforming large-scale financial and operational data into explainable, production-grade allocation, risk, and financial systems.
 
 Areas of interest:
 
@@ -14,8 +14,8 @@ Areas of interest:
 * data-intensive architectures
 
 Writing:
-
-* https://carjam.substack.com
+- Essays on capital systems, infrastructure, and institutional trust:
+  https://carjam.substack.com
 
 ---
 
@@ -38,23 +38,23 @@ Writing:
 Credit, risk, and capital allocation systems operating under real-world constraints.
 
 ### Control & Optimization Systems
-Adaptive control and convex optimization systems for dynamic allocation and decisioning.
+Adaptive control and optimization systems for dynamic allocation and risk management.
 
 ### Financial Operations & Back Office Systems
 Data-heavy systems for reconciliation, PnL, analytics, and financial workflows.
 
 ### Data-Intensive Architectures
-High-throughput backend systems, APIs, and pipelines for structured financial data processing.
+High-throughput backend systems, APIs, and pipelines for large-scale financial and operational data processing.
 
 ### Structured Inference & Representation Systems
-Graph-based, rule-based, and similarity-driven systems for decision logic and data modeling.
+Inference and representation systems using graph, rule-based, and similarity-driven models.
 
 ---
 
 ## Design focus
 
-- Turning complex financial and operational data into structured decisions
+- Transforming complex financial and operational data into production-grade operational systems
 - Control systems for dynamic environments
 - Optimization under constraints and competing objectives
 - Scalable data-intensive system design
-- Explainable decisioning in production environments
+- Explainable allocation and risk systems in production environments
