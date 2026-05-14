@@ -1,10 +1,21 @@
-# Hi, I’m James Carson
+# James Carson
 
-I build systems that transform complex, high-volume data into structured, constrained, and explainable decisions.
+Fintech engineering leader building capital allocation, risk, and operational decision systems using machine learning, convex optimization, and control theory.
 
-These systems operationalize decision-making in financial and operational environments under real-world constraints.
+My work focuses on transforming large-scale financial and operational data into explainable, production-grade decisioning systems.
 
-My work spans financial systems, control systems, and data-intensive architectures that operate under real-world constraints and production requirements.
+Areas of interest:
+
+* capital systems
+* financial infrastructure
+* optimization under constraints
+* institutional trust
+* adaptive control systems
+* data-intensive architectures
+
+Writing:
+
+* https://carjam.substack.com
 
 ---
 
