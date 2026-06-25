@@ -31,8 +31,12 @@ Writing:
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 
 ---
-**Live build:** [Igiari!](https://igiari.us) — solo-built, monetized SaaS product: LLM-powered reasoning analysis with usage-based billing across three customer segments (consumer, developer API, legal). Concept to paying-customer-ready in weeks.
+
+### **Live build:** [Igiari!](https://igiari.us)
+Solo-built, monetized SaaS product: LLM-powered reasoning analysis with usage-based billing across three customer segments (consumer, developer API, legal). Concept to paying-customer-ready in weeks.
+
 ---
+
 ## What I build
 
 ### Financial Decision Systems
